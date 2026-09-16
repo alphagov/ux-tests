@@ -1,2 +1,4 @@
-# ux-tests
-Test repo for deploying GOV.UK prototype content
+# UX tests
+A repo to host static pages for UX testing
+
+Please contact Antoni Devlin for more info.
